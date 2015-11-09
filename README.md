@@ -48,10 +48,12 @@ Details
                                     nothing, but nice to look at when passing a
                                     command.
     -o                              Another test switch, but this time a bit
-                                    more circular and minimal in appearance. All                                    the rage with hipsters.
+                                    more circular and minimal in appearance. All
+                                    the rage with hipsters.
     --a-really-frickin-long-switch  Really pushing the limits of what is
                                     classified as a valid switch now, are we?
 ```
+Output specifics will vary based on your console/terminal emulator width. The above output was created with a 80 character width buffer.
 
 ####Install
 
