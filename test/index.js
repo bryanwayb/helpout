@@ -17,6 +17,12 @@ process.stdout.write(helpout.help({
                 '-o': 'Another test switch, but this time a bit more circular and minimal in appearance. All the rage with hipsters.',
                 '--a-really-frickin-long-switch': 'Really pushing the limits of what is classified as a valid switch now, are we?'
             }
+        },
+        'Another Section': {
+            description: 'Another test description',
+            options: {
+                '--more-stuff': 'Just another section of more examples'
+            }
         }
     }
 }));
